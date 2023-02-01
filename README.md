@@ -38,3 +38,13 @@
 
 ### Ответ:   
 
+1.1 Hosts  
+![Скрин](https://github.com/Karhq/9.2_hw_zabbix/blob/main/1.1.png)  
+
+1.2 Скрин логов  
+![Скрин](https://github.com/Karhq/9.2_hw_zabbix/blob/main/1.2.png)  
+
+1.3 Monitoring > Latest data  
+![Скрин](https://github.com/Karhq/9.2_hw_zabbix/blob/main/1.4.png)  
+![Скрин](https://github.com/Karhq/9.2_hw_zabbix/blob/main/1.5.png)   
+
