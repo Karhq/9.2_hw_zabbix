@@ -9,7 +9,7 @@
 *Приложите текст использованных команд в GitHub.*
 
 ### Ответ:  
-Скрин админки ![Скрин](https://github.com/Karhq/9.2_hw_zabbix/blob/main/1.8.png)
+Скрин админки ![Скрин](https://github.com/Karhq/9.2_hw_zabbix/blob/main/1.9.png)  
 
 ---
 
